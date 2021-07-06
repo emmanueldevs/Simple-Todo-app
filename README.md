@@ -1,3 +1,13 @@
+# A Simple Todo React App
+
+## it implemented 
+
+Class based component
+
+Functional component
+
+Props
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
